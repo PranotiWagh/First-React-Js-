@@ -1,0 +1,12 @@
+.bike{
+    background-color: antiquewhite;
+    font-weight: 100;
+    color: red;
+}
+
+.Cards{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+}
